@@ -334,7 +334,10 @@
 </class>
 </classes>
 <parts>
-<part name="JP1" library="pinhead" deviceset="PINHD-1X3" device="_2.54-SMD"/>
+<part name="JP1" library="pinhead" deviceset="PINHD-1X3" device="_2.54-SMD">
+<attribute name="OC_DIGIKEY" value="S5595-ND"/>
+<attribute name="PRICE_100" value="0.536"/>
+</part>
 <part name="U$8" library="TinyMix3-FrontPanel" deviceset="TOUCHPAD" device=""/>
 <part name="U$9" library="TinyMix3-FrontPanel" deviceset="TOUCHPAD" device=""/>
 <part name="U$10" library="TinyMix3-FrontPanel" deviceset="TOUCHPAD" device=""/>
@@ -344,7 +347,10 @@
 <plain>
 </plain>
 <instances>
-<instance part="JP1" gate="A" x="76.2" y="50.8"/>
+<instance part="JP1" gate="A" x="76.2" y="50.8">
+<attribute name="OC_DIGIKEY" x="76.2" y="50.8" size="1.27" layer="96" display="off"/>
+<attribute name="PRICE_100" x="76.2" y="50.8" size="1.27" layer="96" display="off"/>
+</instance>
 <instance part="U$8" gate="G$1" x="66.04" y="53.34" rot="R180"/>
 <instance part="U$9" gate="G$1" x="66.04" y="50.8" rot="R180"/>
 <instance part="U$10" gate="G$1" x="66.04" y="48.26" rot="R180"/>
