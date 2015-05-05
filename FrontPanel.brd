@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.6.0">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -51,8 +51,8 @@
 <layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
 <layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
@@ -80,15 +80,11 @@
 <wire x1="3" y1="18.5" x2="0" y2="15.5" width="0" layer="20" curve="90"/>
 <wire x1="0" y1="15.5" x2="0" y2="3" width="0" layer="20"/>
 <wire x1="0" y1="3" x2="3" y2="0" width="0" layer="20" curve="90"/>
-<hole x="2.75" y="2.75" drill="2.1"/>
+<hole x="2.75" y="2.75" drill="2.5"/>
 <hole x="2.75" y="15.75" drill="2.5"/>
 <hole x="42.25" y="15.75" drill="2.5"/>
 <hole x="42.25" y="2.75" drill="2.5"/>
 <rectangle x1="1.375" y1="10" x2="43.625" y2="11.6" layer="40"/>
-<circle x="2.75" y="15.75" radius="2.1" width="0.1" layer="20"/>
-<circle x="2.75" y="2.75" radius="2.1" width="0.1" layer="20"/>
-<circle x="42.25" y="2.75" radius="2.1" width="0.1" layer="20"/>
-<circle x="42.25" y="15.75" radius="2.1" width="0.1" layer="20"/>
 <text x="22.5" y="15.5" size="2.54" layer="25" rot="SR180" align="center">CH</text>
 <text x="10.73" y="15.8" size="2.54" layer="25" align="center">-</text>
 <text x="34.27" y="15.9" size="2.54" layer="25" align="center">+</text>
