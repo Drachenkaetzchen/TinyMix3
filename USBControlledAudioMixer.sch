@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="6.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -17359,7 +17359,7 @@ yageo YC164 series (8pin/4R)</description>
 <attribute name="PRICE_100" value="0.0048"/>
 </part>
 <part name="JP2" library="TinyMix3" deviceset="PINHD-1X3" device="">
-<attribute name="OC_DIGIKEY" value="WM4101-ND"/>
+<attribute name="OC_DIGIKEY" value="WM2734-ND"/>
 <attribute name="PRICE_100" value="0.227"/>
 </part>
 <part name="J1" library="Molex-47346-0001" deviceset="47346-0001" device="">
