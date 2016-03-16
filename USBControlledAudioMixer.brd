@@ -2078,8 +2078,8 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="12.91" y="25.635" size="0.889" layer="25" rot="R270"/>
 </element>
 <element name="C4" library="rcl" package="SMC_A" value="10u" x="6.37" y="17.56" smashed="yes">
-<attribute name="OC_TME" value="TAJA155K016R" x="43.2" y="-37.05" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE_100" value="0.059" x="6.37" y="17.56" size="1.778" layer="27" display="off"/>
+<attribute name="OC_TME" value="T491A106M016AT" x="43.2" y="-37.05" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE_100" value="0.064" x="6.37" y="17.56" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="3.765" y="16.77" size="0.889" layer="25" rot="R90"/>
 </element>
 <element name="IN3" library="FC68125" package="FC68125" value="FC68125" x="35.8" y="33.655" smashed="yes">
@@ -2276,8 +2276,8 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="OC_DIGIKEY" value="338-2776-1-ND" x="41.8" y="3.075" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C6" library="rcl" package="SMC_A" value="10u" x="29.2" y="26.95" smashed="yes">
-<attribute name="OC_TME" value="TAJA155K016R" x="29.2" y="26.95" size="1.778" layer="27" display="off"/>
-<attribute name="PRICE_100" value="0.059" x="29.2" y="26.95" size="1.778" layer="27" display="off"/>
+<attribute name="OC_TME" value="T491A106M016AT" x="29.2" y="26.95" size="1.778" layer="27" display="off"/>
+<attribute name="PRICE_100" value="0.064" x="29.2" y="26.95" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="33.45" y="26.875" size="0.889" layer="25" rot="R180"/>
 </element>
 <element name="RN2" library="Simplex-rlc" package="YC164" value="1k" x="30.075" y="11.45" smashed="yes">
