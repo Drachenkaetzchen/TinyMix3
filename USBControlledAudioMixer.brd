@@ -156,7 +156,7 @@
 <rectangle x1="43" y1="0" x2="44" y2="40" layer="39"/>
 <rectangle x1="1" y1="0" x2="2" y2="40" layer="40"/>
 <rectangle x1="43" y1="0" x2="44" y2="40" layer="40"/>
-<text x="3.5" y="29" size="0.889" layer="25" rot="R90" align="center-left">TinyMix3 Rev A
+<text x="3.5" y="29" size="0.889" layer="25" rot="R90" align="center-left">TinyMix3 Rev B
 felitek.de</text>
 </plain>
 <libraries>
