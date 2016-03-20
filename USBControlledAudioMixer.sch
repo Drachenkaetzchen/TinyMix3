@@ -17243,8 +17243,8 @@ yageo YC164 series (8pin/4R)</description>
 <attribute name="PRICE_100" value="0.008"/>
 </part>
 <part name="C4" library="rcl" deviceset="CPOL-EU" device="SMCA" value="10u">
-<attribute name="OC_TME" value="TAJA155K016R"/>
-<attribute name="PRICE_100" value="0.059"/>
+<attribute name="OC_TME" value="T491A106M016AT"/>
+<attribute name="PRICE_100" value="0.064"/>
 </part>
 <part name="IN3" library="FC68125" deviceset="FC68125" device="">
 <attribute name="OC_TME" value="FC68125"/>
@@ -17406,8 +17406,8 @@ yageo YC164 series (8pin/4R)</description>
 <attribute name="PRICE_100" value="0.487"/>
 </part>
 <part name="C6" library="rcl" deviceset="CPOL-EU" device="SMCA" value="10u">
-<attribute name="OC_TME" value="TAJA155K016R"/>
-<attribute name="PRICE_100" value="0.059"/>
+<attribute name="OC_TME" value="T491A106M016AT"/>
+<attribute name="PRICE_100" value="0.064"/>
 </part>
 <part name="RN2" library="Simplex-rlc" deviceset="RES_ARR" device="" value="1k">
 <attribute name="OC_DIGIKEY" value="YC164J-1.0KCT-ND"/>
