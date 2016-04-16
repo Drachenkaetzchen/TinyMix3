@@ -15,3 +15,7 @@ Problems spotted:
 * Mixing resistors in the outputs (10k) plus feedback opamp resistor (10k) missing
 * Footprint of line jacks are mirrored, needs fixing
 * Mixer doesn't mix, check out why
+
+# 2016-03-26
+
+* Changed mirrored connectors
