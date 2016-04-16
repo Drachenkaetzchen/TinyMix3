@@ -2171,12 +2171,12 @@ Please make sure your boards conform to these design rules.</description>
 <element name="U1" library="projectLibrary" package="SOT-23" value="LMR62014" x="7.4" y="9.95" smashed="yes" rot="R180">
 <attribute name="OC_DIGIKEY" value="LMR62014XMF/NOPBCT-ND" x="7.4" y="9.95" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="PRICE_100" value="1.269" x="7.4" y="9.95" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="11.2" y="11.15" size="0.889" layer="25" rot="R180"/>
+<attribute name="NAME" x="7.85" y="13.7" size="0.889" layer="25" rot="R270"/>
 </element>
 <element name="R3" library="rcl" package="R0603" value="1M" x="7.9" y="6.7" smashed="yes" rot="R180">
 <attribute name="PRICE_100" value="0.0043" x="7.9" y="6.7" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_DIGIKEY" value="RHM1MCGCT-ND" x="7.9" y="6.7" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="7.935" y="8.665" size="0.889" layer="25" rot="R180"/>
+<attribute name="NAME" x="7.985" y="5.765" size="0.889" layer="25" rot="R180"/>
 </element>
 <element name="L1" library="SparkFun" package="1007" value="" x="12.9" y="10.2" smashed="yes" rot="R180">
 <attribute name="OC_DIGIKEY" value="587-1613-1-ND" x="12.9" y="10.2" size="1.778" layer="27" rot="R180" display="off"/>
@@ -2216,7 +2216,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="2.64" y="12.585" size="0.889" layer="25"/>
 </element>
 <element name="JP2" library="TinyMix3" package="1X03/90_MOLEX_4094" value="" x="22.6" y="8.025" smashed="yes" rot="SR180">
-<attribute name="NAME" x="26.645" y="13.335" size="0.889" layer="25" ratio="10" rot="SR270"/>
+<attribute name="NAME" x="17.745" y="13.285" size="0.889" layer="25" ratio="10" rot="SR270"/>
 <attribute name="VALUE" x="16.885" y="11.835" size="1.27" layer="27" rot="SR270"/>
 <attribute name="OC_DIGIKEY" value="WM2734-ND" x="22.6" y="8.025" size="0.889" layer="27" rot="SR180" align="center-left" display="off"/>
 <attribute name="PRICE_100" value="0.227" x="22.6" y="8.025" size="0.889" layer="27" rot="SR180" align="center-left" display="off"/>
